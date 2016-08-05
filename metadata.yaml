@@ -1,0 +1,38 @@
+_repo: Mark-Twain_6873
+_version: 0.0.1
+contributor:
+  photographer:
+    agent_name: Coburn, Alvin Langdon
+    alias: Coburn, A. L. (Alvin Langdon)
+    birthdate: 1882
+    deathdate: 1966
+    gutenberg_agent_id: '39974'
+    url: http://www.gutenberg.org/2009/agents/39974
+covers:
+- cover_type: archival
+  image_path: 6873/6873-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Henderson, Archibald
+    birthdate: 1877
+    deathdate: 1963
+    gutenberg_agent_id: '890'
+    url: http://www.gutenberg.org/2009/agents/890
+description: Cover -- Contents.
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Twain, Mark, 1835-1910'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcc 'PS'
+- GITenberg
+title: Mark Twain
+url: http://www.gutenberg.org/ebooks/6873
